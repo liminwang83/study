@@ -20,7 +20,7 @@
 - Bower is dead, long live npm. And Yarn. And webpack: https://snyk.io/blog/bower-is-dead/
 - gulp replacing grunt: https://segmentfault.com/a/1190000002491282
 - Grunt vs. Gulp vs. NPM: http://ourjs.com/detail/javascript%E6%9E%84%E5%BB%BA-%E7%BC%96%E7%BB%8E-%E7%B3%BB%E7%BB%9F%E5%A4%A7%E6%AF%94%E6%8B%BC-grunt-vs-gulp-vs-npm
-- mocha vs. karma
+- mocha vs. karma ??
 - 模块化 es6 module, AMD, CMD, CommonJS
     - https://www.cnblogs.com/zhuzhenwei918/p/7426904.html
     - https://juejin.im/post/5aaa37c8f265da23945f365c
@@ -48,7 +48,9 @@
 - __proto__和prototype: https://github.com/creeperyang/blog/issues/9
 - promisify function: http://bluebirdjs.com/docs/api/promise.promisify.html
 - ES6 promise vs. bluebird: https://stackoverflow.com/questions/34960886/are-there-still-reasons-to-use-promise-libraries-like-q-or-bluebird-now-that-we
-
+- underscore vs. lodash
+- isomorphic, Heterogeneous computing
+- In computer programming, boilerplate code or boilerplate refers to sections of code that have to be included in many places with little or no alteration.
 
 ### flex
 - http://flexboxfroggy.com/
