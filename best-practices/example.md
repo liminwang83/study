@@ -1,0 +1,3 @@
+- logging
+- unit test
+- clean code

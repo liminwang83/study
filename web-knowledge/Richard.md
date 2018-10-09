@@ -51,6 +51,7 @@
 - underscore vs. lodash
 - isomorphic, Heterogeneous computing
 - In computer programming, boilerplate code or boilerplate refers to sections of code that have to be included in many places with little or no alteration.
+- HTTP字段：MAX_AGE, EXPIRED_DATE...
 
 ### flex
 - http://flexboxfroggy.com/

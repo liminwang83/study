@@ -1,0 +1,16 @@
+
+- 二叉树遍历(先序，中序，): https://www.cnblogs.com/webFrontDev/p/3865719.html
+- 查找排序算法
+- tree, table, linked list...
+- 算法的js实现?
+- 字符串全排列：https://blog.csdn.net/x526967803/article/details/77718434
+- 递归转非递归： https://www.cnblogs.com/bakari/p/5349383.html
+- hashCode底层数据结构
+- hashMap hashTable, thread safe?
+- difference between sychronized and blocked?
+- equals hashCode?
+- Object 自带的方法？
+- GC算法？
+- AOP实现？
+- mysql 索引实现(数据结构)？
+- 内存泄漏排查？高CPU占用排查
