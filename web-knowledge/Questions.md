@@ -1,0 +1,3 @@
+- the difference: React props & states?
+- debounce vs. throttle
+- hashtable, hashmap

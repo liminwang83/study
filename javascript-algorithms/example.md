@@ -14,3 +14,8 @@
 - AOP实现？
 - mysql 索引实现(数据结构)？
 - 内存泄漏排查？高CPU占用排查
+- Java 并发机制（synchronize/Lock/volitale/CAS/AtomicInteger）的使用和实现: https://blog.csdn.net/KingCat666/article/details/75734796
+- hashCode: http://wiki.jikexueyuan.com/project/java-enhancement/java-twentysix.html
+  - http://kakajw.iteye.com/blog/935226
+- Java Object自带的方法？
+- 服务端渲染？
