@@ -33,22 +33,10 @@ Fast way to complete the mandatory training:
 - behavioral interview: https://www.youtube.com/watch?v=PJKYqLP6MRE&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8&index=38
 - java-design-patterns: https://github.com/iluwatar/java-design-patterns
 
-Documented long term and short term road map:
 
-short term (half - 1 year): 
-- introduce Angular2+
-- update 3rd party libs算法
-- 5G features
-- code refactories, improvements
-- CI improvement
-
-long term (2~3 years):
-- take ownership
-- 5G ready
-- CU webEM
-- improve app performance
-
-
-disable web security:
-
+Chrome disable web security:
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --user-data-dir="C:\Users\l2wang\temp" --disable-web-security
+
+unit test config:
+- admin-core: --compilers js:./mocha.testCore.compiler.js -i -g "\(UI only\)" --require ts-node/register
+- react-ui: --compilers js:./mocha.testReactUi.compiler.js -i -g "\(UI only\)" --require ts-node/register

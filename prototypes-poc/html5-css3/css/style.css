@@ -6,3 +6,21 @@ ul li {
     background-color: aquamarine;
     display: inline-block;
 }
+
+.outer-div {
+    background-color: aqua;
+    color: red;
+}
+
+.outer-div .inner-div {
+    background-color: #4673ff;
+}
+
+div ul li {
+    font-size: 30px;
+}
+
+div ul {
+    margin:0;
+    padding:0;
+}
