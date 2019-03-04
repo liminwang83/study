@@ -1,0 +1,12 @@
+## Good books
+- 深入理解计算机系统CSAPP： https://book.douban.com/subject/5333562/
+- 我建议你看Berkeley改版后的基于Python的SICP：http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/
+- 算法导论
+- 代码大全: https://book.douban.com/subject/1477390/
+- 设计模式：https://book.douban.com/subject/1052241/
+- 编程大师访谈录：https://read.douban.com/ebook/387679/?dcs=subject-rec&dcm=douban&dct=1052241
+- 架构
+- 前端框架实现原理(源码解析)
+- 代码重构
+- 编码：https://book.douban.com/subject/4822685/
+- 计算机程序设计艺术： https://book.douban.com/subject/1130500/

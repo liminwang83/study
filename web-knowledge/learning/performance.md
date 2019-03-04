@@ -6,3 +6,4 @@
 5. 压缩资源，如minify css/js
 6. caching, e.g. HTTP cache
 7. code splitting, prefetch, preload
+8. debounce, throttle

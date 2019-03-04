@@ -57,6 +57,20 @@
 - http://flexboxfroggy.com/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+### others
+- Promise微队列？
+- HashMap和Hashtable的区别： http://www.importnew.com/7010.html
+- 详解synchronized与Lock的区别与使用java.util.concurrent.locks.Lock：https://blog.csdn.net/u012403290/article/details/64910926
+- 如何让两个thread串行执行？ 
+- equals, hashCode: http://kakajw.iteye.com/blog/935226
+- 哈希表算法？
+- GC算法 
+- mysql索引的数据结构？
+    - http://blog.codinglabs.org/articles/theory-of-mysql-index.html
+    - https://www.jianshu.com/p/1775b4ff123a
+- 内存溢出, CPU高耗问题排查? 
+- MapReduce
+
 
 
 

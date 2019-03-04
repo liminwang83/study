@@ -8,7 +8,6 @@ function findMoreThanHalfNumber(arr = []) {
 
     const countMap = new Map();
     arr.forEach(num => {
-        "use strict";
         let count = countMap.get(num) || 0;
         count++;
         countMap.set(num, count);
@@ -16,14 +15,15 @@ function findMoreThanHalfNumber(arr = []) {
 
     const keyArray = Array.from(countMap.keys());
     return keyArray.find(key => {
-        "use strict";
         return countMap.get(key) * 2 > arr.length;
     });
 }
 
+declarative, imperative
+
 function strToInt(str = '') {
     if(typeof  str != 'string')
-        str = String(str);
+        return Number.NaN;
 
     //use regular expression to extract the number portion of str
     let matchArr = /^\s*((\-|\+)?[0-9]+)\s*/.exec(str);
@@ -32,18 +32,4 @@ function strToInt(str = '') {
     }
 
     return Number(str);
-
-    // return toNumber(matchArr[1]);
-    //
-    // function toNumber (str) {
-    //     let sign;
-    //     let result;
-    //     let strArr = str.split('');
-    //     if (strArr[0] && strArr[0].match(/(\-|\+)/)) sign = strArr.shift();
-    //     result = strArr.reduce((ret, val) => {
-    //         ret = ret * 10 + Number(val);
-    //         return ret;
-    //     }, 0);
-    //     return sign === '-' ? -result : result;
-    // }
 }

@@ -1,0 +1,4 @@
+- web server (e.g. node), 如何设置文件的缓存策略?
+- micro task, macro task?
+- JQery-ajax, Axios, ES6 fetch API
+- MVC, MVVM区别？

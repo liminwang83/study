@@ -1,0 +1,30 @@
+header {
+    background-color: blue;
+    color: white;
+}
+
+.center {
+    background-color: purple;
+    color: white;
+    width: 100%;
+}
+
+.left {
+    background-color: yellow;
+    color: black;
+}
+
+.right {
+    background-color: aqua;
+    color: green;
+}
+
+footer {
+    background-color: red;
+    color: white;
+}
+
+div {
+    padding: 0 100px;
+}
+

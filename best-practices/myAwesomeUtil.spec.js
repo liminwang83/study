@@ -97,10 +97,3 @@ describe('myAwesomeUtil', () => {
         });
     });
 });
-
-//功能测试 （若干）
-//边界测试 []
-//非法输入
-
-
-private
