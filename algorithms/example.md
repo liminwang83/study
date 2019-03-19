@@ -7,7 +7,7 @@
 - 递归转非递归： https://www.cnblogs.com/bakari/p/5349383.html
 - hashCode底层数据结构
 - hashMap hashTable, thread safe?
-- difference between sychronized and blocked?
+- difference between sychronized and locked?
 - equals hashCode?
 - Object 自带的方法？
 - GC算法？
